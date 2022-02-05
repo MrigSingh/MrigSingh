@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrigSingh
+- 👋 Hi, I’m Mriganshu Singh - @MrigSingh
 - 👀 I’m interested in building stuffs
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on anything you would like to work together on.
